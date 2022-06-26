@@ -1,0 +1,5 @@
+# Project exclude paths
+/eureka-server/target/
+/seata-rm-one/target/
+/seata-rm-two/target/
+/seata-three/target/
